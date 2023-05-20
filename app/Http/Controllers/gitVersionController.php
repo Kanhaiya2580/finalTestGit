@@ -9,6 +9,6 @@ class gitVersionController extends Controller
     //
     public function testFunction()
     {
-        // $gitVariable = 'gitVariable';
+        $gitVariable = 'gitVariable';
     }
 }
